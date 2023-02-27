@@ -1,4 +1,4 @@
-public class Main {
+
 public class EjPag348 {
 	int a=1, b=2, c=3; {
 		if (a>b && a>c){
@@ -14,5 +14,4 @@ public class EjPag348 {
 			System.out.println("Ningún numero es superior a los otros dos");
 		}
 	}
-}
 }
