@@ -13,5 +13,7 @@ public class Ej2Pag355 {
 			System.out.println("1 --> Gestores");
 		}keyboard.close();
 	}
-
+	public static char instrucciones(char1 1 --> Gestores) {
+		return char1
+	}
 }
