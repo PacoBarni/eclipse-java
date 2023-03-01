@@ -1,7 +1,7 @@
 
 public class Bicicleta extends Vehiculo{
 		//atributos
-		public boolean cambios;
+		private int cambios;
 		//métodos
 		public void ruedines() {}
 		public void luces() {}
