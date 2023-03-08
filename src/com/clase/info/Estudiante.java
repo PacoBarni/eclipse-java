@@ -1,4 +1,4 @@
-
+package com.clase.info;
 public class Estudiante extends Persona {
 	//Constructores
 	public Estudiante() {
@@ -97,5 +97,11 @@ public class Estudiante extends Persona {
 	}
 	public void setNotaMedia(float notaMedia) {
 		this.notaMedia = notaMedia;
+	}
+
+	@Override
+	public void mostrarID() {
+		// TODO Auto-generated method stub
+		System.out.println("%d - %f",getId(),getNotaMedia());
 	}
 }

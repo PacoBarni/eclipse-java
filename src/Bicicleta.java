@@ -1,5 +1,5 @@
 
-public class Bicicleta extends Vehiculo{
+public class Bicicleta implements Vehiculo{
 		//atributos
 		private int cambios;
 		//métodos
